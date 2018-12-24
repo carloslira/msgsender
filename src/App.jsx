@@ -10,7 +10,7 @@ class Main extends React.Component {
 
     state = {
         isTextShown: false
-    }
+    };
 
     componentDidMount() {
         setTimeout(() => {
@@ -29,7 +29,7 @@ class Main extends React.Component {
             isTextShown
         } = this.state;
 
-        const msg = window.location.pathname.slice(1);
+        const msg = window.location.hash.slice(1);
 
         return (
             <div className={classes.wrapper}>

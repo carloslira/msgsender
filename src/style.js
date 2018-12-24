@@ -23,6 +23,7 @@ const style = {
     text: {
         color: 'white',
         fontSize: '100px',
+        textAlign: 'center',
         fontFamily: 'Signatra'
     }
 };
