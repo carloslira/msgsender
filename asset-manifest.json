@@ -1,11 +1,11 @@
 {
-  "main.js": "/msgsender/static/js/main.4df28585.chunk.js",
-  "main.js.map": "/msgsender/static/js/main.4df28585.chunk.js.map",
+  "main.js": "/msgsender/static/js/main.6612a550.chunk.js",
+  "main.js.map": "/msgsender/static/js/main.6612a550.chunk.js.map",
   "static/js/1.e62e533b.chunk.js": "/msgsender/static/js/1.e62e533b.chunk.js",
   "static/js/1.e62e533b.chunk.js.map": "/msgsender/static/js/1.e62e533b.chunk.js.map",
   "runtime~main.js": "/msgsender/static/js/runtime~main.2210eae0.js",
   "runtime~main.js.map": "/msgsender/static/js/runtime~main.2210eae0.js.map",
   "index.html": "/msgsender/index.html",
-  "precache-manifest.bb4e7c7d064c4c13c6ac00803cc35885.js": "/msgsender/precache-manifest.bb4e7c7d064c4c13c6ac00803cc35885.js",
+  "precache-manifest.d2c00b7861ee39ebecb480772edb17d6.js": "/msgsender/precache-manifest.d2c00b7861ee39ebecb480772edb17d6.js",
   "service-worker.js": "/msgsender/service-worker.js"
 }
