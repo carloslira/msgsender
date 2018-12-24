@@ -29,7 +29,7 @@ class Main extends React.Component {
             isTextShown
         } = this.state;
 
-        const msg = window.location.hash.slice(1);
+        const msg = decodeURI(window.location.hash.slice(1));
 
         return (
             <div className={classes.wrapper}>
